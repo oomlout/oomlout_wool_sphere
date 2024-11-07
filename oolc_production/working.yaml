@@ -1,0 +1,6 @@
+project_id: oomlout_wool_sphere
+project_name: Oomlout Wool Sphere
+project_repo: https://github.com/oomlout/oomlout_wool_sphere
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
